@@ -15,7 +15,6 @@ int main(int num ,char *arg[])
 {
    int a, b, c, d, e;
     int x, y, z;
-
     scanf("%d%d%d%d%d",&a, &b, &c, &d, &e);
     x = a-2*e;
     y = b-2*e;
