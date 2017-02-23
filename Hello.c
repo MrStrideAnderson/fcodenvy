@@ -20,6 +20,9 @@ int main(int num ,char *arg[])
     y = b-2*e;
     z = c-2*e;
 
+
+
+
     printf("%d ",(2 * (a*b + b*c + c*a)) + 8 * x* d + 8 * y* d + 8 * z* d);
 
     printf("%d\n", a * b * c - 2 * x * y * d - 2 * x * z * d - 2 * y * z * d );
