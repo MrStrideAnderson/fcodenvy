@@ -13,8 +13,6 @@
 
 int main(int num ,char *arg[])
 {
-
-
    int a, b, c, d, e;
     int x, y, z;
 
